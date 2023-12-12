@@ -1,0 +1,14 @@
+{
+  "name": "@bready/core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "bready"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OutroNinja (https://github.com/outroninja)",
+  "license": "ISC"
+}
