@@ -1,8 +1,8 @@
 {
   "name": "@bready/core",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.3",
+  "description": "Simple functions to facilitate development",
+  "main": "./src/",
   "keywords": [
     "bready"
   ],

@@ -1,5 +1,5 @@
 function capitalize(text) {
-    return text.charAt(0).toUpperCase() + text.slice(1);
+    return text.toLowerCase().charAt(0).toUpperCase() + text.slice(1).toLowerCase();
 }
 
 function reverseString(text) {
