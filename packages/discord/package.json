@@ -1,6 +1,6 @@
 {
     "name": "@bready/discord",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Simple functions to facilitat discord bot development",
     "main": "./src/",
     "keywords": [
@@ -12,6 +12,10 @@
     "dependencies": {
       "discord.js": "latest",
       "@bready/core": "latest"
+    },
+    "repository": {
+      "type": "git",
+      "url:": "git+https://github.com/OutroNinja/Bready.git"
     },
     "author": "OutroNinja (https://github.com/outroninja)",
     "license": "ISC"

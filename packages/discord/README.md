@@ -37,7 +37,7 @@ import bd from "@bready/discord";
 
 <a name="methods"></a>
 ### Methods
-- [Paginate](github.com/OutroNinja/Bready/packages/discord/docs/paginate.md)
+- [Paginate](https://github.com/OutroNinja/Bready/packages/discord/docs/paginate.md)
 
 <a name="license"></a>
 ### License

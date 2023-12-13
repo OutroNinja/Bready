@@ -19,8 +19,8 @@ import { capitalize } from "@bready/core";
 ```
 
 ### Methods
-- [capitalize](github.com/OutroNinja/Bready/packages/core/docs/capitalize.md)
-- [reverseString](github.com/OutroNinja/Bready/packages/core/docs/reversestring.md)
-- [truncateString](github.com/OutroNinja/Bready/packages/core/docs/truncatestring.md)
-- [replaceString](github.com/OutroNinja/Bready/packages/core/docs/replacestring.md)
-- [messageBuilder](github.com/OutroNinja/Bready/packages/core/docs/messagebuilder.md)
+- [capitalize](https://github.com/OutroNinja/Bready/packages/core/docs/capitalize.md)
+- [reverseString](https://github.com/OutroNinja/Bready/packages/core/docs/reversestring.md)
+- [truncateString](https://github.com/OutroNinja/Bready/packages/core/docs/truncatestring.md)
+- [replaceString](https://github.com/OutroNinja/Bready/packages/core/docs/replacestring.md)
+- [messageBuilder](https://github.com/OutroNinja/Bready/packages/core/docs/messagebuilder.md)
