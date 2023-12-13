@@ -1,6 +1,6 @@
 {
     "name": "@bready/discord",
-    "version": "1.0.3",
+    "version": "1.0.0",
     "description": "Simple functions to facilitat discord bot development",
     "main": "./src/",
     "keywords": [
@@ -10,7 +10,8 @@
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "dependencies": {
-      "discord.js": "latest"
+      "discord.js": "latest",
+      "@bready/core": "latest"
     },
     "author": "OutroNinja (https://github.com/outroninja)",
     "license": "ISC"
