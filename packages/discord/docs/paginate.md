@@ -35,5 +35,5 @@ module.exports = {
 
 ### Result:
 <p align="center">
-<img width="100%" src="github.com/OutroNinja/Bready/tree/main/packages/discord/docs/result.png">
+<img width="100%" src="https://github.com/OutroNinja/Bready/blob/main/packages/discord/docs/result.png">
 </p>
