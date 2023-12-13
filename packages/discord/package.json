@@ -1,0 +1,17 @@
+{
+    "name": "@bready/discord",
+    "version": "1.0.3",
+    "description": "Simple functions to facilitat discord bot development",
+    "main": "./src/",
+    "keywords": [
+      "bready", "discord", "pagination"
+    ],
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+      "discord.js": "latest"
+    },
+    "author": "OutroNinja (https://github.com/outroninja)",
+    "license": "ISC"
+  }
