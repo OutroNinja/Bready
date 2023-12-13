@@ -1,21 +1,35 @@
 # Bready Core
+[![NPM version](https://img.shields.io/npm/v/avvio.svg?style=flat)](https://www.npmjs.com/package/@bready/discord)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://standardjs.com/)
+
 Simple functions to facilitate development
 
-## Installation
-To download the module, run the following command
+* [Install](#install)
+* [Usage](#usage)
+* [Methods](#methods)
+
+<a name="install"></a>
+## Install
+To install `@bready/core`, simply use npm:
 ```bash
 npm install @bready/core
 ```
 
+<a name="usage"></a>
 ## Usage
 ### CommonJS
 ```js
-const { capitalize } = require("@bready/core");
+const bd = require("@bready/core");
 ```
 
 ### ESM
 ```js
-import { capitalize } from "@bready/core";
+import { capitalize, replaceString } from "@bready/core";
+```
+
+Default exports are supported:
+```js
+import bd from "@bready/core";
 ```
 
 ### Methods
