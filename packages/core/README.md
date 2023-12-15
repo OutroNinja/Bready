@@ -40,6 +40,7 @@ import bd from "@bready/core";
 - [truncateString](https://github.com/OutroNinja/Bready/blob/main/packages/core/docs/truncatestring.md)
 - [replaceString](https://github.com/OutroNinja/Bready/blob/main/packages/core/docs/replacestring.md)
 - [messageBuilder](https://github.com/OutroNinja/Bready/blob/main/packages/core/docs/messagebuilder.md)
+- [convertStringToArray](https://github.com/OutroNinja/Bready/blob/main/packages/core/docs/convertstringtoarray.md)
 
 <a name="license"></a>
 ### License

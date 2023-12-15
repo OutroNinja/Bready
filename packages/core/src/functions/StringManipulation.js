@@ -24,10 +24,16 @@ function messageBuilder(text) {
     return text.join("\n");
 }
 
+function convertStringToArray(string) {
+    var words = string.split(" ");
+    return words;
+}
+
 module.exports = {
     capitalize,
     reverseString,
     truncateString,
     replaceString,
-    messageBuilder
+    messageBuilder,
+    convertStringToArray,
 }
