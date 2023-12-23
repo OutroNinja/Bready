@@ -1,0 +1,11 @@
+{
+  "name": "@bready/tools",
+  "version": "1.0.0",
+  "description": "Advanced tools to facilitat development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
